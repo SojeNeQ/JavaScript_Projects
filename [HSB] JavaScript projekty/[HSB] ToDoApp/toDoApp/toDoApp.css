@@ -1,0 +1,16 @@
+.myBtn {
+    text-decoration: none;
+    font-size: 17px;
+    border: 2px solid black;
+    padding: 10px 15px;
+    border-radius: 12px;
+    background: rgb(13, 27, 109);
+    color: #fff;
+    letter-spacing: 1.5px;
+    /* padding-bottom: 5px; */
+}
+
+.myBtn:hover {
+    background: rgb(13, 27, 109);
+}
+
